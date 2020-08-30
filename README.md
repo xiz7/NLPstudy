@@ -1,0 +1,2 @@
+# NLPstudy
+ weekly notes
